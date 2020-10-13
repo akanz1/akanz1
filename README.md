@@ -6,5 +6,4 @@
 
 
 
-[![Akanz1's github stats](https://github-readme-stats-git-master.akanz1.vercel.app/api?username=akanz1)](https://github.com/akanz1/github-readme-stats)
-
+[![Akanz1's github stats](https://github-readme-stats-git-master.akanz1.vercel.app/api?username=akanz1&count_private=true&show_icons=true)](https://github.com/akanz1/github-readme-stats)
