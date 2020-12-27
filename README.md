@@ -2,8 +2,8 @@
 
 <h3 align="center"> Data Scientist :man_technologist: | Economist 🎓 | Researcher 📚</h3>
 
-- 🐍 Currently working on a package that facilitates data exploration and data cleaning 👉 **[klib](https://github.com/akanz1/klib)**.
-- 💳 Interested in projects and collaborations related to **banking and financial markets**. 🏦
+- 🐍 Currently working on a package that facilitates data exploration and data cleaning 👉 **[klib](https://github.com/akanz1/klib)**
+- 💳 Interested in projects and collaborations related to **banking and financial markets** 🏦
 - 📚 Take a look at the coding exercises on [Exercism](https://exercism.io/profiles/akanz1) and reach out to me for feedback and **mentoring**!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akanz/)
 <p float="left">
