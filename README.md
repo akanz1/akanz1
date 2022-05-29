@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm a Data Scientist based in Germany! 👋 </h1>
+<h1 align="center">Hi there, I'm a Data Engineer/Scientist based in Germany! 👋 </h1>
 
-<h3 align="center"> Data Scientist :man_technologist: | Economist 🎓 | Researcher 📚</h3>
+<h3 align="center"> Data Engineer/Scientist :man_technologist: | Economist 🎓 | Researcher 📚</h3>
 
 - 🐍 Currently working on a package that facilitates data exploration and data cleaning 👉 **[klib](https://github.com/akanz1/klib)**
 - 💳 Interested in projects and collaborations related to **banking and financial markets** 🏦
