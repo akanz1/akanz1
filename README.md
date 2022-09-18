@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm a Data Engineer/Scientist based in Germany! 👋 </h1>
+<h1 align="center">Hi there, I'm a Quantitative Developer based in Germany! 👋 </h1>
 
 <h3 align="center"> Data Engineer/Scientist :man_technologist: | Economist 🎓 | Researcher 📚</h3>
 
