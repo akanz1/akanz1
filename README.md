@@ -10,7 +10,3 @@
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=akanz1&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=3600" width="450" />
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=akanz1&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=akanz1&label=Profile%20Views&color=12&icon=1&pretty=true" />
-</a>
